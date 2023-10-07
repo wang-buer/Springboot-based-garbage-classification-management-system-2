@@ -1,6 +1,9 @@
 # 基于springboot的垃圾分类管理系统2
+## 获取方式
 
+扫描下方，回复关键词  ： **垃圾2** ，以获取源码
 
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
