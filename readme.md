@@ -1,9 +1,6 @@
 # 基于springboot的垃圾分类管理系统2
-## 获取方式
 
-扫描下方，回复关键词  ： **垃圾2** ，以获取源码
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -34,41 +31,40 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/07/uDJ2ZiYAsBXePH8.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202311152222085.jpg)
+
 
 ### 4.2 前端模块
 
-![首页](https://s2.loli.net/2023/10/07/MynDOSHxcr39CKi.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202311152222947.jpg)
 
-![垃圾详情介绍](https://s2.loli.net/2023/10/07/Y2H1Jsw7go5PFcA.jpg)
+![垃圾分类展示](https://www.codeshop.fun/Typora-Images/202311152222439.jpg)
 
-![垃圾分类展示](https://s2.loli.net/2023/10/07/zLBnmK3EwoMpqgT.jpg)
+![垃圾详情介绍](https://www.codeshop.fun/Typora-Images/202311152222420.jpg)
 
 ### 4.3 管理员模块
 
-![管理员-用户管理](https://s2.loli.net/2023/10/07/G5wubQZYEDk1yof.jpg)
+![管理员-垃圾分类管理](https://www.codeshop.fun/Typora-Images/202311152222087.jpg)
 
-![管理员-垃圾分类管理](https://s2.loli.net/2023/10/07/kWUnJ3Q5VgBZzGA.jpg)
+![管理员-垃圾类型管理](https://www.codeshop.fun/Typora-Images/202311152222056.jpg)
 
-![管理员-垃圾类型管理](https://s2.loli.net/2023/10/07/mywouM52gHOGSBI.jpg)
+![管理员-垃圾图谱管理](https://www.codeshop.fun/Typora-Images/202311152222118.jpg)
 
-### ![管理员-垃圾图谱管理](https://s2.loli.net/2023/10/07/7OfqPpXGJkoQUzR.jpg)
+![管理员-轮播图管理](https://www.codeshop.fun/Typora-Images/202311152222078.jpg)
 
-![管理员-轮播图管理](https://s2.loli.net/2023/10/07/qyKrtlimC9Vz7Lh.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202311152222108.jpg)
+
 
 ### 4.4 文档目录
 
-![文档目录](https://s2.loli.net/2023/10/07/3SbY8EftCWU7ZiI.jpg)
-
-
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：音乐
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![文档目录](https://www.codeshop.fun/Typora-Images/202311152222351.jpg)
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**垃圾**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
